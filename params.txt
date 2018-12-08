@@ -1,0 +1,16 @@
+indent:4
+use_tab:False
+keep_line_breaks_in_text:True
+keep_white_spaces:False
+wrap_attrs:2
+space_in_empty_tag:False
+align_attrs:True
+keep_indents_on_empty_line:False
+space_after_tag_name:False
+tab_size:4
+space_around_equal:False
+keep_line_breaks:True
+keep_blank_lines:2
+wrap_text:True
+smart_tabs:False
+continuation_indent:4
