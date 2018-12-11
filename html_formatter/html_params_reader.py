@@ -8,7 +8,7 @@ def read_params(name):
         attrs = line[:-1].split(':')
         key = attrs[0]
         value = attrs[1]
-        
+
         if value == 'True':
             value = True
         elif value == 'False':
